@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Resumo sobre mim:
 Engenheiro de Computação <br><br>Em busca de aprimorar os conhecimentos e aprender novas tecnologias<br><br>Experiências e Tecnologias:<br><br>Administração de sistemas operacionais<br>- Linux Ubuntu Server / CentOS Server<br>- Shell Script<br>- Ansible<br>- Docker<br>- Apache<br>- Nginx<br><br>Desenvolvimento web<br>- Python<br>- Flask<br>- JS<br>- CSS<br><br>Banco de dados<br>- MySQL
 
 
