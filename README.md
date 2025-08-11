@@ -3,7 +3,7 @@ Engenheiro de Computação <br><br>Em busca de aprimorar os conhecimentos e apre
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaopedrocguimaraes18/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedrocguimaraes18/) 
 [![Email](https://img.shields.io/badge/Email-%23E34F26.svg?logo=email&logoColor=white)](mailto:jpedro.guimaraes@hotmail.com)
 
 # 💻 Tech Stack:
